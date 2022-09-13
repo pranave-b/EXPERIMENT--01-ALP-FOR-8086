@@ -1,8 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
 ```
-### Name : Pranave B
-### Roll no : 212221240040
-### Date of experiment : 12.09.2022
+ Name : Pranave B
+ Roll no : 212221240040
+ Date of experiment : 12.09.2022
 ```
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
